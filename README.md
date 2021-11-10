@@ -7,7 +7,6 @@ For this project we are building an HTML page that will allow us to pull up info
 
 # HTML Page and results
 
-
 Once entering the website our client will see the basic opening and title with the picture at the top, as the client scrolls down they will begin to see all the data and filters that we have(which is in the image below). From this image below we have 5 different filters to choose from; the date, city, state, country & shape. You can choose any of these filters enter the search bar, then the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
 
 
